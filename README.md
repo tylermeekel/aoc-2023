@@ -6,3 +6,6 @@ This section contains my thoughts on each of the days, including struggles I had
 
 ### Day 1
 The toughest part of this one for me was accounting for overlapping matches in Part 2. I was initially using RegEx for a solution, but I realized (after eventually going crazy) that finding a solution this way was going to be more tedious than just using the `slices` package.
+
+### Day 2
+This one was quite easy. My solution for this was definitely way too verbose, but I like working with data that has an actual representation. sue me.
